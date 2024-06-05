@@ -1,0 +1,7 @@
+Symbol = ZWS dAvgOpen = 21.425652Symbol = ZWS dAvgOpen = 21.425652
+Symbol = ZWS MinOpenDate= 2023-03-24, dMinOpenPrice=19.480000
+Symbol = ZWS MaxCloseDate= 2023-03-03, dMaxClosePrice=23.110000
+Symbol = MSFT  dDailyReturn = 0.000000
+Symbol = MSFT  dDailyReturn = 0.000000
+Symbol = MSFT  dDailyReturn = 0.000000
+Symbol = MSFT  dDailyReturn = 0.000000
